@@ -1,4 +1,4 @@
-# Mini Bank Backend
+# Mini Bank
 
 A mini backend implementation of a basic banking system built with Go & PostgreSQL along with utilising modern development practices.
 
